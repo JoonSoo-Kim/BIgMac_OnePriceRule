@@ -1,0 +1,29 @@
+Australia
+Brazil
+Britain(United Kingdom)
+Canada
+Chile
+Czech Republic
+Hungary
+Japan
+Mexico
+New Zealand
+Poland
+Russia
+South Korea
+United States
+
+
+아시아 3
+유럽 4
+북아메리카 2
+남아메리카 3
+오세아니아 1
+
+최대한 대륙 별 균형을 맞추고자 함
+
+2000~2017
+
+국가별 각 연도의 최저임금 찾음
+이를 그 나라의 그때 빅맥 가격으로 나누어줌
+이를 그래프로 나타냄

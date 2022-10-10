@@ -373,21 +373,6 @@ fig.savefig('Chart_'+str(yearInput)+'.png') #6
 
 ## (7) 분석 결과
 
- ### 연도별 차트
-![Chart_2001.png](attachment:Chart_2001.png)
-![Chart_2002.png](attachment:Chart_2002.png)
-![Chart_2003.png](attachment:Chart_2003.png)
-![Chart_2004.png](attachment:Chart_2004.png)
-![Chart_2005.png](attachment:Chart_2005.png)
-![Chart_2006.png](attachment:Chart_2006.png)
-![Chart_2007.png](attachment:Chart_2007.png)
-![Chart_2008.png](attachment:Chart_2008.png)
-![Chart_2009.png](attachment:Chart_2009.png)
-![Chart_2010.png](attachment:Chart_2010.png)
-
-### 국가별 차트
-![Chart_South%20Korea.png](attachment:Chart_South%20Korea.png)![Chart_Russia.png](attachment:Chart_Russia.png)![Chart_Japan.png](attachment:Chart_Japan.png)![Chart_Indonesia.png](attachment:Chart_Indonesia.png)![Chart_Canada.png](attachment:Chart_Canada.png)![Chart_Britain.png](attachment:Chart_Britain.png)![Chart_Brazil.png](attachment:Chart_Brazil.png)![Chart_Australia.png](attachment:Chart_Australia.png)![Chart_Argentina.png](attachment:Chart_Argentina.png)
-
 내가 처음 예상한 것과 다른 결과가 나왔다.
 
 첫번째로, 선진국과 후진국 간 차이이다. 나는 선진국은 양의 오차율을, 후진국은 음의 오차율을 보일 것이라고 생각했다. 그 이유는 선진국은 물가가 비싸기 때문에 자연스레 빅맥의 가격도 비싸지고, 후진국은 물가가 싸기 때문에 빅맥의 가격 또한 쌀것이라고 생각했다. 하지만 위 그래프를 보면 오차율의 양 음은 각 국가에 따라 비슷한 경향을 보이긴 하지만, 선진국과 후진국 간에 큰 차이는 발생하지 않았다. 오히려 2010년 그래프를 보면 아르헨티나가 영국보다 오차율이 큰 것을 확인할 수 있다. 따라서 선진국과 후진국이라는 이유만으로 무조건 양, 음의 오차율 차이가 발생하는 것은 아니었다.
